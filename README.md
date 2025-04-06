@@ -9,7 +9,9 @@
 7. Activation Function
 8. Loss Functions
 9. Optimizers
-
+10. ANN(Artifical Neural Network)
+11. Dropout
+12. Early Stopping
 
 ### ACTIVATION FUNCTION 
 1. Sigmoid Activation Function
