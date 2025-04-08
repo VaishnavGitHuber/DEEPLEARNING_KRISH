@@ -12,6 +12,7 @@
 10. ANN(Artifical Neural Network)
 11. Dropout
 12. Early Stopping
+13. CNN 
 
 ### ACTIVATION FUNCTION 
 1. Sigmoid Activation Function
@@ -37,4 +38,12 @@
 3. Minibatch SGD
 4. Adagrad(adaptive gradient Descent)
 5. Adadelta & RMSPOP
-6. Adam 
+6. Adam
+
+### CNN 
+1. Convolution
+2. Kernel
+3. padding
+4. stride
+5. fully connected layer
+6. pooling
